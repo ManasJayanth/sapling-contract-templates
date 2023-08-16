@@ -1,0 +1,22 @@
+{
+  "name": "sapling-contract-fa2",
+  "version": "1.0.0",
+  "type": "contract",
+  "license": "<TBD>",
+  "description": "A template to write Sapling contract in CameLigo for FA2",
+  "repository": {
+    "type": "http",
+    "url": "https://github.com/claudebarde/sapling-contract-templates"
+  },
+  "author": "claudebarde",
+  "main": "./sapling-xtz.mligo",
+  "bugs": {
+    "url": "https://github.com/claudebarde/sapling-contract-templates/issues"
+  },
+  "homepage": "https://github.com/claudebarde/sapling-contract-templates#readme",
+  "keywords": [
+    "tezos",
+    "ligo",
+    "blockchain"
+  ]
+}
